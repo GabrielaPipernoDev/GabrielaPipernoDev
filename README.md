@@ -7,7 +7,7 @@
 - 🤔 Estou procurando ajuda com ...
 - 📫 Como entrar em contato comigo: (11) 99548-5586
 - 😄 Pronomes: she/her
-- ⚡ Curiosidade: Maior fã da Aliona Kostornaia
+- ⚡ Curiosidade: maior fã da Aliona Kostornaia
 
 
 ## Ferramentas e Tecnologias
